@@ -1,0 +1,24 @@
+{
+  products: [
+    {"id":1,"animal_name":"King cormorant","color":"Mauv"},
+    {"id":2,"animal_name":"White-eye, cape","color":"Orange"},
+    {"id":3,"animal_name":"Brown capuchin","color":"Purple"},
+    {"id":4,"animal_name":"Lion, steller's sea","color":"Maroon"},
+    {"id":5,"animal_name":"Lizard, blue-tongued","color":"Crimson"},
+    {"id":6,"animal_name":"Cat, toddy","color":"Teal"},
+    {"id":7,"animal_name":"Worm snake (unidentified)","color":"Crimson"},
+    {"id":8,"animal_name":"Little brown bat","color":"Teal"},
+    {"id":9,"animal_name":"Warthog","color":"Crimson"},
+    {"id":10,"animal_name":"Baboon, chacma","color":"Crimson"},
+    {"id":11,"animal_name":"Mexican boa","color":"Red"},
+    {"id":12,"animal_name":"Olive baboon","color":"Yellow"},
+    {"id":13,"animal_name":"Dove, ring","color":"Aquamarine"},
+    {"id":14,"animal_name":"Cape clawless otter","color":"Mauv"},
+    {"id":15,"animal_name":"Macaw, green-winged","color":"Indigo"},
+    {"id":16,"animal_name":"Raccoon dog","color":"Goldenrod"},
+    {"id":17,"animal_name":"Bee-eater (unidentified)","color":"Mauv"},
+    {"id":18,"animal_name":"Sulfur-crested cockatoo","color":"Yellow"},
+    {"id":19,"animal_name":"Capybara","color":"Mauv"},
+    {"id":20,"animal_name":"Common rhea","color":"Orange"}
+  ]
+}
